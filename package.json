@@ -1,0 +1,14 @@
+{
+  "name": "AlteryxWDC",
+  "version": "1.0.0",
+  "description": "Tabelau Web Data Connector Input for Alteryx",
+  "main": "index.js",
+  "repository": "https://github.com/jdunkerley/AlteryxWDC.git",
+  "author": "James Dunkerley <james.dunkerley@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.5.0",
+    "tslint-config-standard": "^6.0.1",
+    "typescript": "^2.4.1"
+  }
+}
