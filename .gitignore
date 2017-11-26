@@ -219,3 +219,5 @@ ModelManifest.xml
 /ReleaseTests
 *.zip
 *.yxi
+AlteryxWDCInput/**/*.js
+AlteryxWDCInput/**/*.js.map
